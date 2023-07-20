@@ -1,8 +1,5 @@
-# React + Vite
+# Cadastro de medicamentos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto consiste na criação de uma página de vitrine de medicamentos com um formulário para cadastrar um novo medicamento e logo abaixo a lista com todos os medicamentos que foram cadastrados.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Neste projeto foram aplicados os conceitos de React como componentização, props, gerenciamento de estado e manipulação de dados.
